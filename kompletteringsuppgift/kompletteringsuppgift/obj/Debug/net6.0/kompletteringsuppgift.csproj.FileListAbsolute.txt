@@ -1,0 +1,15 @@
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\bin\Debug\net6.0\kompletteringsuppgift.exe
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\bin\Debug\net6.0\kompletteringsuppgift.deps.json
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\bin\Debug\net6.0\kompletteringsuppgift.runtimeconfig.json
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\bin\Debug\net6.0\kompletteringsuppgift.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\bin\Debug\net6.0\kompletteringsuppgift.pdb
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.csproj.AssemblyReference.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.AssemblyInfoInputs.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.AssemblyInfo.cs
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.csproj.CoreCompileInputs.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\refint\kompletteringsuppgift.dll
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.pdb
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\kompletteringsuppgift.genruntimeconfig.cache
+C:\Users\emil.ulinjohansson\Downloads\pragermerin-20230419T163234Z-001\pragermerin\kompletteringsspel\kompletteringsuppgift\kompletteringsuppgift\obj\Debug\net6.0\ref\kompletteringsuppgift.dll
